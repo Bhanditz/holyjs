@@ -21,7 +21,7 @@
     "express": "^4.13.4",
     "express-flash": "^0.0.2",
     "express-session": "^1.13.0",
-    "express-validator": "^2.20.6",
+    "express-validator": "^6.5.0",
     "jade": "^1.11.0",
     "lodash": "^4.12.0",
     "lusca": "^1.4.1",
@@ -40,8 +40,8 @@
     "passport-openid": "^0.4.0",
     "passport-twitter": "^1.0.4",
     "request": "^2.72.0",
-    "socket.io": "^1.4.8",
-    "validator": "^5.2.0"
+    "socket.io": "^3.0.0",
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
